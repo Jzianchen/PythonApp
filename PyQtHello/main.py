@@ -8,4 +8,4 @@ if __name__ == '__main__':
     label.move(50, 50)
     window.setGeometry(300, 300, 300, 200)
     window.show()
-    sys.exit(app.exec_())
+    sys.exit(app.exec_())   
