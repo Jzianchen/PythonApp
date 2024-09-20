@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         HelloWorld
 // @namespace    http://tampermonkey.net/
-// @version      2024-09-20
+// @version      0.1
 // @description  New a new project
 // @author       You
 // @match        https://www.tampermonkey.net/scripts.php?ext=dhdg&updated=true&version=5.2.3
@@ -12,6 +12,6 @@
 
 (function() {
     'use strict';
-    console.log("HelloWorld")
+    console.log('HelloWorld_edition2')
     // Your code here...
 })();
